@@ -1,4 +1,4 @@
-for x in toda:
+for x in toditos:
     print("se la come")
 
 for y in todes:
