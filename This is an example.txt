@@ -8,3 +8,5 @@ anothe one
 another two
 
 another three
+
+def test2
