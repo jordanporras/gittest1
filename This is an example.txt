@@ -5,3 +5,4 @@ another one
 another one
 
 def test1
+    for x in another one
