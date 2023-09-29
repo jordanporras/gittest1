@@ -8,3 +8,5 @@ anothe one
 def test1
       while x is true:  
 
+def test1
+    for x in another one
