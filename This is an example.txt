@@ -1,3 +1,2 @@
-A
-CApojfpsajfdpnmss
-CAB
+for x in todes:
+    print("se la come")
