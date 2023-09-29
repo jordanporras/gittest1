@@ -1,2 +1,5 @@
 for x in todes:
     print("se la come")
+
+for y in toda:
+    print("tomela")
