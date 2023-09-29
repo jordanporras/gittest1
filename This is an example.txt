@@ -1,8 +1,1 @@
-This is an example3
-another one
-another one
-another one
-another one
-
-def test1
-    for x in another one
+B
